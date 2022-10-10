@@ -1,1 +1,3 @@
-# .github
+# StarymisiadaSoftware
+
+https://starymisiada.pl
